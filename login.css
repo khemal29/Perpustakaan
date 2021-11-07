@@ -1,0 +1,15 @@
+.container{
+	width: 30%;
+	margin-top: 9%;
+
+	box-shadow: 0 0px 20px rgba(255, 255, 255, 0.3);
+	padding: 40px;
+}
+
+.container form button{
+	width: 48%;
+	margin-top: 10px;
+
+
+}
+

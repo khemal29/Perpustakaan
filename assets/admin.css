@@ -1,0 +1,10 @@
+.nav-link:hover {
+	background-color: grey;
+}
+
+.brand {
+    text-align: left !important;
+    font-size: 22px;
+    padding-left: 20px;
+    line-height: 50px !important;
+}
